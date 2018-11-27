@@ -9,7 +9,7 @@ class ForgotPasswordController extends Controller
 {
     /*
     |--------------------------------------------------------------------------
-    | Password Reset Controller
+    | Password Reset Controller处理用于重置密码的邮件链接
     |--------------------------------------------------------------------------
     |
     | This controller is responsible for handling password reset emails and
