@@ -2,15 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Administrator/code/Laravel/app/Http/Controllers/UsersController.php</file>
-            <file>file:/C:/Users/Administrator/code/Laravel/resources/views/layouts/default.blade.php</file>
-            <file>file:/C:/Users/Administrator/code/Laravel/routes/web.php</file>
-            <file>file:/C:/Users/Administrator/code/Laravel/resources/assets/sass/app.scss</file>
-            <file>file:/C:/Users/Administrator/code/Laravel/resources/views/layouts/_header.blade.php</file>
-            <file>file:/C:/Users/Administrator/code/Laravel/resources/views/layouts/_footer.blade.php</file>
-            <file>file:/C:/Users/Administrator/code/Laravel/config/session.php</file>
-            <file>file:/C:/Users/Administrator/code/Laravel/resources/views/users/edit.blade.php</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
