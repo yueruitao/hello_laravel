@@ -31,10 +31,13 @@ class UsersController extends Controller
 //        $users = User::all();
         return view('users.index', compact('users'));
     }
-    
+    //修改到这里
     public function show(User $user)
     {   
-        return view('users.show', compact('user'));
+//        return view('users.show', compact('user'));
+        $statuses = $user->statuses()->orderBy('created_at', 'desc')->paginate(30);
+        //compact创建一个包含变量名和它们的值的数组
+        return view('users.show', compact('user', 'statuses'));
     }
 
     public function store(Request $request)
